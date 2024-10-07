@@ -17,4 +17,4 @@ Please click **'Open in Colab'** button below to launch the notebook in Google C
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/UC_Data_Day.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/The-CEAS-Library/UC_Data_Day.git)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/The-CEAS-Library/UC_Data_Day)
